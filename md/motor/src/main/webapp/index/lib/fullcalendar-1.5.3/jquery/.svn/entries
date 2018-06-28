@@ -1,0 +1,52 @@
+8
+
+dir
+1458
+https://user-zh0707/svn/S3/noob/src/main/webapp/index/lib/fullcalendar-1.5.3/jquery
+https://user-zh0707/svn/S3
+
+
+
+2017-11-23T08:14:39.199598Z
+2
+A
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2559b84a-bc26-434b-98f1-f39567c27d32
+
+jquery-1.7.1.min.js
+file
+
+
+
+
+2018-01-16T12:49:12.589000Z
+ddb84c1587287b2df08966081ef063bf
+2017-11-23T08:14:39.199598Z
+2
+A
+
+jquery-ui-1.8.17.custom.min.js
+file
+
+
+
+
+2018-01-16T12:49:12.581000Z
+026335f5397a7c47f814d613af36c931
+2017-11-23T08:14:39.199598Z
+2
+A
+

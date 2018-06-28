@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/S3/!svn/ver/1020/noob/src/main/webapp/jsps/delivery/dispatch/dispatchInquiry
+END
+signForInquiry.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/S3/!svn/ver/298/noob/src/main/webapp/jsps/delivery/dispatch/dispatchInquiry/signForInquiry.jsp
+END
+dispatchControl.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/S3/!svn/ver/1020/noob/src/main/webapp/jsps/delivery/dispatch/dispatchInquiry/dispatchControl.jsp
+END
+controlInquiry.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/S3/!svn/ver/183/noob/src/main/webapp/jsps/delivery/dispatch/dispatchInquiry/controlInquiry.jsp
+END

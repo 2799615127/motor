@@ -1,0 +1,46 @@
+#tables{
+  width:50%;
+  margin-top:20px;
+  margin-left:20px;
+ 
+}
+#look{
+ display:none;
+}
+.fonts{
+margin-right:110px;
+font-size:18px;
+padding-left: 13px
+
+}
+#goods{
+margin-top: 50px;
+margin-bottom:60px;
+
+}
+.tax{
+margin-right:97px;
+font-size:18px;
+padding-left:14px
+}
+#pro{
+font-size:20px;
+}
+#free{
+font-size:20px;
+color:  #ff8040;
+
+}
+.exp-stan{
+width: 1000px;
+margin-bottom: 110px;
+margin-top: 40px;
+margin-left:12px;
+}
+#fruit{
+margin-top:50px;
+ font-size:24px;
+ font-weight: normal;
+ color:#666666;
+ margin-left:12px;
+}

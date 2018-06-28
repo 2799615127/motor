@@ -1,0 +1,44 @@
+[
+    {
+                "id":1,
+                "pid":0,
+                "resourceId":"1ad393288e28448e",
+                "resourceName":"基础档案管理设置",
+               	"keyword":"基础档案",
+                "parentId":"null",
+                "parentName":"null",
+                "resourceType":"一级菜单",
+                "resourceUrl":"",
+                "code":"2",
+                "description":"一级菜单,被其他资源依赖",
+                "index" :"1"
+    },
+    {
+    			"id":2,
+                "pid":1,
+                "resourceId":"d5f83d48b48241e4",
+                "resourceName":"线路设置",
+               	"keyword":"线路",
+                "parentId":"1ad393288e28448e",
+                "parentName":"基础档案管理设置",
+                "resourceType":"二级级菜单",
+                "resourceUrl":"",
+                "code":"2",
+                "description":"二级菜单,基于基础管理档案设置",
+                "index" :"1"
+    },
+    {
+    			"id":3,
+                "pid":1,
+                "resourceId":"079b3fe0aa2a49f3",
+                "resourceName":"收派标准",
+               	"keyword":"收派标准",
+                "parentId":"1ad393288e28448e",
+                "parentName":"基础档案管理设置",
+                "resourceType":"二级级菜单",
+                "resourceUrl":"",
+                "code":"2",
+                "description":"二级菜单,基于基础管理档案设置",
+                "index" :"2"
+    }
+]

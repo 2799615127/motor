@@ -1,0 +1,66 @@
+body {
+	font-size: 14px;
+	margin: 0;
+	padding: 0
+}
+
+.background {
+	margin-left: 100px;
+}
+
+p {
+	height: 40px;
+	line-height: 40px;
+}
+
+.open-model {
+	text-align: center;
+}
+
+.open-model input {
+	padding: 10px 20px;
+	font-size: 24px;
+	line-height: 24px;
+	border: 0px;
+	background: #F53639;
+	color: #FFF;
+	cursor: pointer;
+}
+
+.open-model input:hover {
+	background: #F3726D;
+}
+
+.open-model input:focus {
+	border: 0px;
+	outline-width: 0px;
+}
+
+.model {
+	opacity: 0.75;
+	background: #666;
+	position: fixed;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	z-index: 1000;
+}
+
+.model-dialog {
+	width: 600px;
+	height: 400px;
+	background: white;
+	position: absolute;
+	z-index: 1001;
+	left: 0;
+	top: -130px;
+}
+
+.hide {
+	display: none;
+}
+
+
+   
+

@@ -1,0 +1,133 @@
+#startTime{
+	width:190px;
+}
+
+#end{
+	width:50px;
+	margin-left:-70px;
+}
+
+#endTime{
+	width:190px;
+	margin-left:-25px;
+}
+
+#jobNo{
+	margin-top:23px;
+}
+
+#jobListNo{
+	margin-top:23px;
+}
+
+#max{
+	margin-top:23px;
+}
+
+#maxWeight{
+	width:190px;
+	margin-top:23px;
+}
+
+#txt_min{
+	margin-top:23px;
+	margin-left:-14px;
+}
+
+#minWeight{
+	width:190px;
+	margin-top:23px;
+	margin-left:-13px
+}
+
+#btn_query{
+	margin-top:23px;
+	margin-left:33px
+}
+
+#txt_Name{
+	height:38px;
+	margin-left:133px;
+	margin-top:-35px;
+}
+
+#select_txt{
+	margin-top:10px;
+	margin-left: 50px;
+}
+
+#txt_bz{
+	margin-left:370px;
+	margin-top:7px;
+}
+
+#txt_xl{
+	margin-top:9px;
+	margin-left:-9px;
+}
+
+#txt_Q{
+	margin-top:9px;
+	padding-left: 80px;
+}
+
+#packQ{
+	width:46%;
+	float: left;
+}
+
+.jobListNo_txt{
+	width:100px;
+}
+
+.display_JLNo{
+	width:130px;
+}
+
+.txt_move{
+	margin-left: 45px;
+	
+}
+
+#text_Q{
+	float:right;
+	margin-right: 24px; 
+}
+
+#storageTime{
+	width:170px;
+}
+
+#table_txt{
+	width:52%;
+	float: right;
+}
+
+.txt-bj1{
+	margin-left: 125px;
+	margin-top: 16px;
+}
+
+.txt-bj2{
+	margin-top: 16px;
+	margin-bottom: 16px;
+}
+
+#txt-clo2{
+	padding-top: 5px;
+	margin-left: 76px;
+}
+
+#toolbars{
+	margin-left: 210px;
+	margin-top: 65px;
+	padding-bottom: 16px;
+}
+
+#btn_stamp{
+	background-color:#7CFC00;
+}
+
+
+
+

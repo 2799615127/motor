@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/S3/!svn/ver/1313/noob/src/main/webapp/jsps/transfer/exception
+END
+exceptionSetting.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/S3/!svn/ver/1313/noob/src/main/webapp/jsps/transfer/exception/exceptionSetting.jsp
+END
+exceptionReceive.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/S3/!svn/ver/1313/noob/src/main/webapp/jsps/transfer/exception/exceptionReceive.jsp
+END
+exceptionManage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/S3/!svn/ver/1313/noob/src/main/webapp/jsps/transfer/exception/exceptionManage.jsp
+END

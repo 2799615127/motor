@@ -1,0 +1,86 @@
+8
+
+dir
+1458
+https://user-zh0707/svn/S3/noob/src/main/webapp/index/lib
+https://user-zh0707/svn/S3
+
+
+
+2017-11-23T08:14:39.199598Z
+2
+A
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2559b84a-bc26-434b-98f1-f39567c27d32
+
+.DS_Store
+file
+
+
+
+
+2018-01-16T12:49:09.487000Z
+194577a7e20bdcc7afbb718f502c134c
+2017-11-23T08:14:39.199598Z
+2
+A
+has-props
+
+bootstrap
+dir
+
+font-awesome
+dir
+
+fullcalendar-1.5.3
+dir
+
+jquery-1.7.2.min.js
+file
+
+
+
+
+2018-01-16T12:49:09.470000Z
+b8d64d0bc142b3f670cc0611b0aebcae
+2017-11-23T08:14:39.199598Z
+2
+A
+
+jquery-1.8.1.min.js
+file
+
+
+
+
+2018-01-16T12:49:09.480000Z
+a9a0cc296e96bbeaa0f82498e2da0917
+2017-11-23T08:14:39.199598Z
+2
+A
+
+jquery-3.1.1.min.js
+file
+
+
+
+
+2018-01-16T12:49:12.224000Z
+e071abda8fe61194711cfc2ab99fe104
+2017-11-23T08:14:39.199598Z
+2
+A
+
