@@ -5,16 +5,16 @@
 <head>
     <title>资源表设置</title>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="../assets/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="../assets/font-awesome/css/font-awesome.min.css">
-    <link rel="stylesheet" href="../assets/bootstrap-table/src/bootstrap-table.css">
+    <link rel="stylesheet" href="../../assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../../assets/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="../../assets/bootstrap-table/src/bootstrap-table.css">
   <link rel="stylesheet" href="https://cdn.bootcss.com/jquery-treegrid/0.2.0/css/jquery.treegrid.min.css">
-    <link rel="stylesheet" href="../assets/examples.css">
-	<script src="../assets/jquery.min.js"></script>
-    <script src="../assets/bootstrap4/js/popper.min.js"></script>
-    <script src="../assets/bootstrap/js/bootstrap.min.js"></script>
-    <script src="../assets/bootstrap-table/src/bootstrap-table.js"></script>
-    <script src="../assets/bootstrap-table/src/extensions/treegrid/bootstrap-table-treegrid.js"></script>
+    <link rel="stylesheet" href="../../assets/examples.css">
+	<script src="../../assets/jquery.min.js"></script>
+    <script src="../../assets/bootstrap4/js/popper.min.js"></script>
+    <script src="../../assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="../../assets/bootstrap-table/src/bootstrap-table.js"></script>
+    <script src="../../assets/bootstrap-table/src/extensions/treegrid/bootstrap-table-treegrid.js"></script>
 <script src="https://cdn.bootcss.com/jquery-treegrid/0.2.0/js/jquery.treegrid.min.js"></script>
 
     <script src="../ga.js"></script>
